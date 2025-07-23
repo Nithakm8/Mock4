@@ -67,12 +67,12 @@ main{
     border: none;
 }
 .title1{
-    color:aliceblue;
+    color:silver;
     font-size: 11px;
     font-family: monospace;
 }
 .title2{
-    color: black;
+    color: white;
     font-size: 12px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -121,14 +121,14 @@ label{
     font-size: 12px;
 }
 input{
-    width: 75%;
-    padding: 6px;
+    width: 95%;
+    padding: 8px;
     border-radius: 4px;
     font-size: 10px;
-    border: 1px solid gray;
+    border: 1px solid rgb(228, 223, 223);
 }
 .next{
-    padding: 3% 4%;
+    padding: 3% 5%;
     font-size: 10px;
     color: white;
     background-color: navy;
